@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alan Hernandez
-    tagline: Full Stack Developer
+    tagline: Machine Learning Engineer
     avatar: pfp.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,18 +39,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Software Engineering student seeking a career in Machine Learning/Data Science.
 
 education:
     - degree: A.S. in Computer Science
       university: MiraCosta College
-      time: 2017 - 2019
+      time: August 2017 - June 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,7 +57,7 @@ education:
 
 experiences:
     - role: Tutor
-      time: 2018 - Present
+      time: August 2018 - Present
       company: MiraCosta College, Oceanside
       details: |
         Tutored/Assisted students in Computer Science, Math, and Physics coursework in large groups. 
@@ -74,7 +68,7 @@ experiences:
             Physics 1: Mechanics, and Physics 2: Electricity & Magnitism
 
     - role: Summer Researcher
-      time: 2018 - Present
+      time: May 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
         Researched the strengths and weaknesses of several visual-inertial state estimation
@@ -83,7 +77,7 @@ experiences:
           - Paper currently submitted for publishing.
 
     - role: Student Ambassador
-      time: 2017 - present
+      time: Auguest 2017 - present
       company: MiraCosta College, Oceanside
       details: |
         Served as a peer mentor at a local high school recruiting and promoting college in
@@ -125,10 +119,6 @@ publications:
       - title: "Macro Is The New Micro: How Sociology Can Help Our Older Adult Suicide Rate"
         authors: Alan Hernandez, Thao Ha
         conference: The Honors Transfer Council of California, 2018
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
 skills:
     title: Skills &amp; Proficiency
