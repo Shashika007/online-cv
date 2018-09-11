@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,12 +14,10 @@ sidebar:
     # Sidebar links
     email: hernandezalan299@gmail.com
     phone: 760 573 4476
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: bit.ly/2Gyom1T #do not add http://
+    linkedin:
     github: al2699
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -31,14 +29,12 @@ sidebar:
         level: Native
         
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Math
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -66,48 +62,46 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Tutor
+      time: 2018 - Present
+      company: MiraCosta College, Oceanside
+      details: |
+        Tutored/Assisted students in Computer Science, Math, and Physics coursework in large groups. 
+        Also assisted in material comprehension in one-on-one appointments.
+
+          - Courses tutored: Intro Java 1 & 2, Intro C++, Intro Python, Integral,
+            Differential, and Multivariate Calculus, Linear Algebra, 
+            Physics 1: Mechanics, and Physics 2: Electricity & Magnitism
+
+    - role: Summer Researcher
+      time: 2018 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Researched the strengths and weaknesses of several visual-inertial state estimation
+        algorithms (used in robots, self driving cars, and virtual reality gear). Also created
+        lab datasets using unmanned ground vehicles (UGVs) and Micro Air Vehicles (MAVs).
+          - Paper currently submitted for publishing.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Student Ambassador
+      time: 2017 - present
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Served as a peer mentor at a local high school recruiting and promoting college in
+        general. Lead campus tours, events, and activity. Constructed and presented workshops
+        on math, MiraCosta, and other college related topics.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineering Intern
+      time: June 2016 - August 2017
+      company: Northrop Grumman, Rancho Bernardo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Summer internships.
 
-          - Bullet point
-          - Bullet point
+          - Constructed a program to automatically scrape web data in order to obatain
+            insightful maritime traffic data with Python
+          - Researched and assisted in implementing a sense and avoid collision detection
+            system on quadcopters with MATLAB
+          - Constructed unit tests for flight computer software
+          - Collaborated on a team to erect 2 Linux software develpment enviroments
 
 projects:
     title: Projects
@@ -145,39 +139,26 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Macro Is The New Micro: How Sociology Can Help Our Older Adult Suicide Rate"
+        authors: Alan Hernandez, Thao Ha
+        conference: The Honors Transfer Council of California, 2018
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
+
+      - name: C++
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
